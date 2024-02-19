@@ -1,0 +1,14 @@
+D:\Bootcamp Batch 9\ProjectA\obj\Debug\net8.0\ProjectA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp Batch 9\ProjectA\obj\Debug\net8.0\ProjectA.AssemblyInfoInputs.cache
+D:\Bootcamp Batch 9\ProjectA\obj\Debug\net8.0\ProjectA.AssemblyInfo.cs
+D:\Bootcamp Batch 9\ProjectA\obj\Debug\net8.0\ProjectA.csproj.CoreCompileInputs.cache
+D:\Bootcamp Batch 9\ProjectA\bin\Debug\net8.0\ProjectA.exe
+d:\Bootcamp Batch 9\ProjectA\bin\Debug\net8.0\ProjectA.deps.json
+d:\Bootcamp Batch 9\ProjectA\bin\Debug\net8.0\ProjectA.runtimeconfig.json
+D:\Bootcamp Batch 9\ProjectA\bin\Debug\net8.0\ProjectA.dll
+D:\Bootcamp Batch 9\ProjectA\bin\Debug\net8.0\ProjectA.pdb
+D:\Bootcamp Batch 9\ProjectA\obj\Debug\net8.0\ProjectA.dll
+D:\Bootcamp Batch 9\ProjectA\obj\Debug\net8.0\refint\ProjectA.dll
+D:\Bootcamp Batch 9\ProjectA\obj\Debug\net8.0\ProjectA.pdb
+d:\Bootcamp Batch 9\ProjectA\obj\Debug\net8.0\ProjectA.genruntimeconfig.cache
+d:\Bootcamp Batch 9\ProjectA\obj\Debug\net8.0\ref\ProjectA.dll
