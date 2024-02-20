@@ -1,3 +1,4 @@
+namespace Vehicle;
 class Car 
 {
 	//Engine

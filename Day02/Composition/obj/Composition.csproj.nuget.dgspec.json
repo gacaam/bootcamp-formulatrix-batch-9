@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Bootcamp Batch 9\\Day02\\Composition\\Composition.csproj": {}
+    "D:\\Bootcamp Batch 9\\Day02\\Composition\\Composition.csproj": {}
   },
   "projects": {
-    "d:\\Bootcamp Batch 9\\Day02\\Composition\\Composition.csproj": {
+    "D:\\Bootcamp Batch 9\\Day02\\Composition\\Composition.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Bootcamp Batch 9\\Day02\\Composition\\Composition.csproj",
+        "projectUniqueName": "D:\\Bootcamp Batch 9\\Day02\\Composition\\Composition.csproj",
         "projectName": "Composition",
-        "projectPath": "d:\\Bootcamp Batch 9\\Day02\\Composition\\Composition.csproj",
+        "projectPath": "D:\\Bootcamp Batch 9\\Day02\\Composition\\Composition.csproj",
         "packagesPath": "C:\\Users\\Batch 9\\.nuget\\packages\\",
-        "outputPath": "d:\\Bootcamp Batch 9\\Day02\\Composition\\obj\\",
+        "outputPath": "D:\\Bootcamp Batch 9\\Day02\\Composition\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 9\\AppData\\Roaming\\NuGet\\NuGet.Config"

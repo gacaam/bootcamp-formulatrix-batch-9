@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Bootcamp Batch 9\\Day01\\Calculator\\Calculator.csproj",
-      "projectName": "Calculator",
-      "projectPath": "D:\\Bootcamp Batch 9\\Day01\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "D:\\Bootcamp Batch 9\\OOP_Inheritance\\OOP.csproj",
+      "projectName": "OOP",
+      "projectPath": "D:\\Bootcamp Batch 9\\OOP_Inheritance\\OOP.csproj",
       "packagesPath": "C:\\Users\\Batch 9\\.nuget\\packages\\",
-      "outputPath": "D:\\Bootcamp Batch 9\\Day01\\Calculator\\obj\\",
+      "outputPath": "D:\\Bootcamp Batch 9\\OOP_Inheritance\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Batch 9\\AppData\\Roaming\\NuGet\\NuGet.Config"

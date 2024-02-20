@@ -1,0 +1,15 @@
+D:\Bootcamp Batch 9\OOP_Inheritance\bin\Debug\net8.0\OOP.exe
+d:\Bootcamp Batch 9\OOP_Inheritance\bin\Debug\net8.0\OOP.deps.json
+d:\Bootcamp Batch 9\OOP_Inheritance\bin\Debug\net8.0\OOP.runtimeconfig.json
+D:\Bootcamp Batch 9\OOP_Inheritance\bin\Debug\net8.0\OOP.dll
+D:\Bootcamp Batch 9\OOP_Inheritance\bin\Debug\net8.0\OOP.pdb
+D:\Bootcamp Batch 9\OOP_Inheritance\obj\Debug\net8.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp Batch 9\OOP_Inheritance\obj\Debug\net8.0\OOP.AssemblyInfoInputs.cache
+D:\Bootcamp Batch 9\OOP_Inheritance\obj\Debug\net8.0\OOP.AssemblyInfo.cs
+D:\Bootcamp Batch 9\OOP_Inheritance\obj\Debug\net8.0\OOP.csproj.CoreCompileInputs.cache
+D:\Bootcamp Batch 9\OOP_Inheritance\obj\Debug\net8.0\OOP.sourcelink.json
+D:\Bootcamp Batch 9\OOP_Inheritance\obj\Debug\net8.0\OOP.dll
+D:\Bootcamp Batch 9\OOP_Inheritance\obj\Debug\net8.0\refint\OOP.dll
+D:\Bootcamp Batch 9\OOP_Inheritance\obj\Debug\net8.0\OOP.pdb
+d:\Bootcamp Batch 9\OOP_Inheritance\obj\Debug\net8.0\OOP.genruntimeconfig.cache
+d:\Bootcamp Batch 9\OOP_Inheritance\obj\Debug\net8.0\ref\OOP.dll

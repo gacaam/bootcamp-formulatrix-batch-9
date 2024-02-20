@@ -1,4 +1,5 @@
-﻿class Program 
+﻿namespace Vehicle;
+class Program 
 {
 	static void Main() 
 	{

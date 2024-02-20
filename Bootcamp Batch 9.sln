@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
@@ -14,6 +14,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor", "Day02\Constructor\Constructor.csproj", "{D16A2988-0DB6-4AF7-994D-588F9EC7FEAC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composition", "Day02\Composition\Composition.csproj", "{1A8C9191-5504-4D09-9D53-0F6E6C8B3DFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP_Inheritance\OOP.csproj", "{31868794-0028-4DD1-AF18-35746281A574}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -40,8 +42,13 @@ Global
 		{1A8C9191-5504-4D09-9D53-0F6E6C8B3DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A8C9191-5504-4D09-9D53-0F6E6C8B3DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A8C9191-5504-4D09-9D53-0F6E6C8B3DFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31868794-0028-4DD1-AF18-35746281A574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31868794-0028-4DD1-AF18-35746281A574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31868794-0028-4DD1-AF18-35746281A574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31868794-0028-4DD1-AF18-35746281A574}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{31868794-0028-4DD1-AF18-35746281A574} = {88F190EC-AFD6-4379-B598-43F30480C296}
 		{1A8C9191-5504-4D09-9D53-0F6E6C8B3DFF} = {88F190EC-AFD6-4379-B598-43F30480C296}
 		{5790D6DA-8F71-408C-A1D0-C76F0F532DFF} = {2E69B2C7-4210-4C65-A028-3457D82AB556}
 		{69B645DD-98FC-4A12-B9E9-F64C573A9DD2} = {2E69B2C7-4210-4C65-A028-3457D82AB556}
