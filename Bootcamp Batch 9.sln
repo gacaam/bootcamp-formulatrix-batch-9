@@ -1,4 +1,4 @@
-
+﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor", "Day02\Constr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composition", "Day02\Composition\Composition.csproj", "{1A8C9191-5504-4D09-9D53-0F6E6C8B3DFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP_Inheritance\OOP.csproj", "{31868794-0028-4DD1-AF18-35746281A574}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "Day02\OOP_Inheritance\OOP.csproj", "{31868794-0028-4DD1-AF18-35746281A574}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
