@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Bootcamp Batch 9\\OOP_Inheritance\\OOP.csproj": {}
+    "D:\\Bootcamp Batch 9\\Day02\\OOP_Inheritance\\OOP.csproj": {}
   },
   "projects": {
-    "d:\\Bootcamp Batch 9\\OOP_Inheritance\\OOP.csproj": {
+    "D:\\Bootcamp Batch 9\\Day02\\OOP_Inheritance\\OOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Bootcamp Batch 9\\OOP_Inheritance\\OOP.csproj",
+        "projectUniqueName": "D:\\Bootcamp Batch 9\\Day02\\OOP_Inheritance\\OOP.csproj",
         "projectName": "OOP",
-        "projectPath": "d:\\Bootcamp Batch 9\\OOP_Inheritance\\OOP.csproj",
+        "projectPath": "D:\\Bootcamp Batch 9\\Day02\\OOP_Inheritance\\OOP.csproj",
         "packagesPath": "C:\\Users\\Batch 9\\.nuget\\packages\\",
-        "outputPath": "d:\\Bootcamp Batch 9\\OOP_Inheritance\\obj\\",
+        "outputPath": "D:\\Bootcamp Batch 9\\Day02\\OOP_Inheritance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 9\\AppData\\Roaming\\NuGet\\NuGet.Config"

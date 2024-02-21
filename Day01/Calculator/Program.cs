@@ -1,5 +1,4 @@
 ﻿// naming convention: class & method PascalCase, variable camelCase
-
 class Program{
     static void Main()
     {
