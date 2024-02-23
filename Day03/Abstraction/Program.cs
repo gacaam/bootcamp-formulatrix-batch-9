@@ -1,21 +1,21 @@
 ﻿
 class CardController{
-    private Card[] _cards;
-    private int _count = 0;
+    public Card[] cards;
+    public int count = 0;
     public CardController(int card){
-        _cards = new Card[card];
+        cards = new Card[card];
     }
     public bool AddCard(Card card){
-		if(_count == _cards.Length-1) 
+		if(count == cards.Length-1) 
 		{
 			return false;
 		}
-		_cards[_count] = card;
-		_count++;
+		cards[count] = card;
+		count++;
 		return true;
     
 }
-abstract class Card{
+public abstract class Card{
     private string name;
     private string color;
     public Card(string name_, string color_){

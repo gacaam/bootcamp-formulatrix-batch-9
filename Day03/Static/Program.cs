@@ -15,17 +15,17 @@ class Program
 
 class Human
 {
-    private static int _count;
+    private static int counts;
     private int _balance;
     public Human(int balance)
     {
-        _count++;
+        counts++;
         _balance = balance;
         
     }
     public static int GetCount()
     {
-        return _count;
+        return counts;
     }
     public int GetBalance()
     {
