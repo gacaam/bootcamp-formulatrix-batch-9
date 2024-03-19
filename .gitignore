@@ -97,7 +97,7 @@ StyleCopReport.xml
 *.tmp
 *.tmp_proj
 *_wpftmp.csproj
-*.log
+*.logger
 *.tlog
 *.vspscc
 *.vssscc
@@ -293,7 +293,7 @@ FakesAssemblies/
 .ntvs_analysis.dat
 node_modules/
 
-# Visual Studio 6 build log
+# Visual Studio 6 build logger
 *.plg
 
 # Visual Studio 6 workspace options file
@@ -357,7 +357,7 @@ OpenCover/
 # Azure Stream Analytics local run output
 ASALocalRun/
 
-# MSBuild Binary and Structured Log
+# MSBuild Binary and Structured logger
 *.binlog
 
 # NVidia Nsight GPU debugger configuration file
