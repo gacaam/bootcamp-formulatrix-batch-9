@@ -1,0 +1,16 @@
+@model Category
+
+<h1>Update Category</h1>
+<form method="post">
+    <div class="form-group">
+        <input asp-for="CategoryId" type="hidden"></input>
+        <label asp-for="CategoryName">Name</label>
+        <input asp-for="CategoryName" type="text" class="form-control" placeholder="Enter Name"></input>
+        <br>
+        <label asp-for="Description">Description</label>
+        <input asp-for="Description" type="text" class="form-control" placeholder="Enter Description"></input>
+    </div>
+    <br>
+    <button type="submit" class="btn btn-primary">Submit</button>
+    <a asp-action="Index" class="btn btn-danger">Cancel</a>
+</form>
